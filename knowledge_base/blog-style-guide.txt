@@ -1,0 +1,7 @@
+Blog Post Style Guide:
+1. Tone: Conversational, friendly, and engaging.
+2. Structure: Use clear headings (H2, H3), short paragraphs, and bullet points.
+3. Introduction: Start with a hook to grab the reader's attention.
+4. Conclusion: End with a clear takeaway or a question to encourage comments.
+5. Vocabulary: Use simple, accessible language. Avoid jargon.
+6. Voice: Always use the active voice.

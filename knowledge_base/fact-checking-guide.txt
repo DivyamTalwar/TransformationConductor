@@ -1,0 +1,5 @@
+Fact-Checking Protocol:
+1. Verify all quantitative data: Cross-reference numbers, dates, and statistics with the original text.
+2. Check proper nouns: Ensure all names of people, organizations, and places are spelled correctly.
+3. Preserve key facts: The core assertions and factual claims of the original text must not be altered or omitted.
+4. Do not introduce new information: The transformed content should not contain any facts not present in the original source.
